@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:18.04
 MAINTAINER Evan yanweichao021@gmail.com
 WORKDIR /Hexo
 RUN apt-get update && apt-get upgrade -y && apt-get install -y git nodejs npm\
