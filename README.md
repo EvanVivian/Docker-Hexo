@@ -11,4 +11,4 @@
 
 [主题SPFK](https://luuman.github.io/2015/12/27/Hexo/HexoTheme/)
 
-修改hexo根目录下的 _config.yml ： theme: spfk
+** 此Dockerfile默认已克隆此主题，如需使用请修改hexo根目录下的 _config.yml ： theme: spfk **
